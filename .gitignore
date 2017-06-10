@@ -12,6 +12,7 @@ npm-debug.log
 # Editor config
 jsconfig.json
 .vscode
+.expo
 .idea
 
 # Thumbnails
